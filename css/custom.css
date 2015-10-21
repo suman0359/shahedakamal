@@ -1,0 +1,9 @@
+/* Custom Stylesheet */
+
+.navbar{
+	background: red;
+}
+
+header div.navbar{
+	border-radius: 0;
+}
